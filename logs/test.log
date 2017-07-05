@@ -1,0 +1,29 @@
+2017-05-14 01:19:47,522 INFO main [com.xuechao.log4jTest.TestLog4j]info(line:38)这是info
+2017-05-14 01:19:47,528 WARN main [com.xuechao.log4jTest.TestLog4j]warn(line:46)这是warn
+2017-05-14 01:19:47,528 ERROR main [com.xuechao.log4jTest.TestLog4j]error(line:50)这是error
+2017-05-14 01:34:27,924 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)打开网站：http://www.baidu.com
+2017-05-14 01:34:28,190 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)这是一个双击：[[ChromeDriver: chrome on XP (a7e2da76e61002dacdafc44b24c0eab8)] -> id: su]
+2017-05-14 01:34:34,074 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)打开网站：http://www.baidu.com
+2017-05-14 01:34:34,168 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)获取的文本新闻
+2017-05-14 01:34:39,948 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)打开网站：http://www.baidu.com
+2017-05-14 01:34:46,054 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)打开网站：http://www.baidu.com
+2017-05-14 01:34:46,280 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了：selenium
+2017-05-14 01:34:46,373 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)点击元素:By.id: su
+2017-05-14 01:38:36,441 ERROR main [com.xuechao.drivers.SeleniumDriver]error(line:50)你传入的浏览器名称有误： chrome111
+2017-05-14 01:38:57,969 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)打开网站：http://www.baidu.com
+2017-05-14 01:38:58,183 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)在文本框为By.id: kw输入了：selenium
+2017-05-14 01:38:58,295 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)点击元素:By.id: su
+2017-05-15 20:26:56,023 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)0.28204050250008916
+2017-05-15 20:37:02,568 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)0.0
+2017-05-15 20:38:19,556 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)70236
+2017-05-15 20:38:24,163 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)26863
+2017-05-15 20:39:04,024 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)1381660906
+2017-05-15 20:39:11,117 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)2710424846
+2017-05-15 22:07:45,953 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)395D0KTw7Z
+2017-05-15 22:09:54,245 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:38)K5J
+2017-05-15 22:23:35,132 INFO main [com.xuechao.tools.DataFormate]info(line:84)2017年05月15日 22:23:35
+2017-05-15 22:24:20,943 INFO main [com.xuechao.tools.DataFormate]info(line:84)2017年05月15日 22:24:20
+2017-05-15 22:24:20,946 INFO main [com.xuechao.tools.DataFormate]info(line:84)20170515
+2017-05-20 16:22:34,791 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:84)打开网站：http://www.baidu.com
+2017-05-20 16:22:35,113 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:84)在文本框为By.id: kw输入了：selenium
+2017-05-20 16:22:35,234 INFO main [com.xuechao.drivers.SeleniumDriver]info(line:84)点击元素:By.id: su

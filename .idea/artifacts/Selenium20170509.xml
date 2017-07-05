@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="Selenium20170509">
+    <output-path>$PROJECT_DIR$/out/artifacts/Selenium20170509</output-path>
+    <root id="archive" name="Selenium20170509.war">
+      <element id="dir-copy" path="$PROJECT_DIR$/target" />
+    </root>
+  </artifact>
+</component>

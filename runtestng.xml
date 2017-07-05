@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+
+  <listeners>
+    <listener class-name="com.xuechao.testng.RetryListener"></listener>
+    <listener class-name="com.xuechao.testng.TestResultListener"></listener>
+  </listeners>
+
+  <test name="Selenium20170509">
+    <classes>
+      <class name="com.xuechao.testng.TestngRetry">
+        <methods>
+          <include name="getRetryCount"/>
+        </methods>
+      </class> <!-- com.xuechao.testng.TestngRetry -->
+    </classes>
+  </test> <!-- Selenium20170509 -->
+</suite> <!-- Default Suite -->
